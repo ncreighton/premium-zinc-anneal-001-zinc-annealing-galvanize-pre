@@ -1,0 +1,2 @@
+# premium-zinc-anneal-001-zinc-annealing-galvanize-pre
+Tired of losing track of your zinc annealing temperatures and galvanizing bath compositions? Turn your workshop into a repeatable laboratory with the Zinc Annealing &amp; Galvanize Prep Craft Lab.  This Notion template organizes your entire zinc annealing and galvanizing workflow, from material prep to final inspection. It replaces scattered notebooks
